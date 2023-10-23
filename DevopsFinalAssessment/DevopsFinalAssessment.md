@@ -68,7 +68,7 @@
 
 5\. List the files in the &quot;lab1&quot; directory to confirm their names.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.001.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.001.png)
 
 
 **Lab 2 : Permissions and Ownership**
@@ -89,7 +89,7 @@ owner.
 
 commands.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.002.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.002.png)
 
 
 **Lab 3 : Text Processing with command line tools**
@@ -112,7 +112,7 @@ file.
 
 characters in the file.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.003.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.003.png)
 
 
 
@@ -135,9 +135,9 @@ name, version, and description.
 
 4\. Validate that the YAML file is correctly formatted.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.004.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.004.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.005.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.005.png)
 
 
 
@@ -156,9 +156,9 @@ name, version, and description.
 
 4\. Save and validate the YAML file.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.006.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.006.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.007.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.007.png)
 
 
 **Lab 6 : Nested Structures in yaml**
@@ -179,9 +179,9 @@ structure.
 
 4\. Save and validate the YAML file.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.008.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.008.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.009.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.009.png)
 
 **Lab 7: Create Classic Azure CI Pipeline for Angular Application**
 
@@ -199,15 +199,15 @@ application with unit testing using Jasmine and Karma.
 
 4\. Run the pipeline and validate the test results.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.010.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.010.png)
 
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.011.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.011.png)
 
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.012.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.012.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.013.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.013.png)
 
 
 **Lab 8 : Create YAML Azure CI Pipeline for React Application**
@@ -226,11 +226,11 @@ application with unit testing using Enzyme and Jest.
 
 4\. Trigger the pipeline and verify the test results.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.014.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.014.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.015.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.015.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.016.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.016.png)
 
 **Lab 9: Create CI Pipeline for .NET Core Application with MS Unit Test**
 
@@ -248,11 +248,11 @@ application and run MS Unit tests.
 
 4\. Trigger the pipeline and validate the test results.
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.017.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.017.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.018.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.018.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.019.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.019.png)
 
 **Lab 10 : Creating a Docker Image for a .NET Core Web API and Running it in Rancher**
 
@@ -280,25 +280,20 @@ Step 4: Build the Docker Image
 
 Step 5: Run the Docker Container in Rancher Desktop
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.020.png)Step 6: Test the .NET Core Web API via swagger
+Step 6: Test the .NET Core Web API via swagger
 
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.021.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.020.png)
 
-
-
-
-
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.021.png)
 
 
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.022.png)
-
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.023.png)![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.024.png)
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.022.png)
 
 
 
 
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.023.png)
 
-![](Aspose.Words.7d081a12-a8b9-43e8-b366-14407554b94b.025.png)
-
+![](Aspose.Words.292b8124-2a52-46c7-ac4b-43ec70684428.024.png)
