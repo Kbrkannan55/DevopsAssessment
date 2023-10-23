@@ -1,0 +1,13 @@
+---
+organization:
+  name: Kanini Software Solutions
+  departments:
+    - name: Internship Traniee
+      employees:
+        - name: Boopathiraja Kannan
+        - name: Vasanth
+        - name: Gautham
+    - name: Junior Associate
+      employees:
+        - name: Vishnu
+        - name: Raja
