@@ -7,6 +7,7 @@ These labs are designed to help you gain hands-on experience with DevOps concept
 
 Here's an overview of the 10 labs included in this repository:
 
+### Lab 1
 Lab 1: File and Directory Management
 Lab 2: Permissions and Ownership
 Lab 3: Text Processing with Command Line Tools
